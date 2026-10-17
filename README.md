@@ -67,7 +67,6 @@ npx skills add nuwa-skills/yuminhong-skill
 - 《我曾走在崩溃的边缘》——俞敏洪著
 - 东方甄选转型相关报道
 - 俞敏洪高考三次经历相关资料
-- 详见 [references/research.md](references/research.md)
 
 ---
 
@@ -77,11 +76,7 @@ npx skills add nuwa-skills/yuminhong-skill
 yuminhong-skill/
 ├── SKILL.md                          # 核心 Skill 提示词
 ├── README.md                         # 项目说明
-├── LICENSE                           # MIT 许可证
-├── examples/
-│   └── demo-conversation.md          # 对话示例
-└── references/
-    └── research.md                   # 调研资料
+└── LICENSE                           # MIT 许可证
 ```
 
 ---
