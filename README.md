@@ -5,9 +5,9 @@
 > "在绝望中寻找希望，人生终将辉煌。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将俞敏洪的逆境重生哲学、教育创业智慧与自嘲式激励蒸馏为 Claude Code 的思维模型，让 AI 用「从绝望中寻找希望」的视角帮你拆解问题。**
+**将俞敏洪的逆境重生哲学、教育创业智慧与自嘲式激励蒸馏为 Claude Code 等 Agent Skills 客户端的思维模型，让 AI 用「从绝望中寻找希望」的视角帮你拆解问题。**
 
 </div>
 
